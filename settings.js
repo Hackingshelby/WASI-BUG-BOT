@@ -10,11 +10,11 @@ global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
 global.ownernumber = '237683449198'  //creator number
-global.ownername = ' MR WASI ' //owner name
+global.ownername = ' THOMASSHELBYGRIMM ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'ThomasSHELBY Grimm 
 global.author = 'WASI'
 
 //console view/theme
